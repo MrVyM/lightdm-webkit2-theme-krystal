@@ -16,7 +16,6 @@ const languagePack = {
         successfulMessages: [
             "Authentication success! Logging in!",
             "Logging in! Biatch",
-            "Don't watch too much porn, bro.",
             "Splish! Splash! Your password is trash!",
             "Looking good today~",
             "What are you doing, stepbro?~",
@@ -47,10 +46,10 @@ const languagePack = {
 			'Friday',
 			'Saturday'
 		],
-        morning: 'Good Morning',
-        afternoon: 'Good Afternoon',
-        evening: 'Good Evening',
-        of: 'of',
+        morning: '',
+        afternoon: '',
+        evening: '',
+        of: '',
     },
     pt_br: {
         goodbye_message: 'Desligando...',
